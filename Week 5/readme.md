@@ -2,16 +2,6 @@
 
 
 
-<details>
-<summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/mlhakimz/EmbeddedSystemDesign/blob/main/Week5/Circuit%20Connection.JPG">
-</details>
-
-<details>
-<summary>PROTOTYPE</summary>
-<img src="https://github.com/mlhakimz/EmbeddedSystemDesign/blob/main/Week5/Prototype.jpg">
-</details>
-
 ### Example 1
 
 Basic ADC application with potentiometer using default arduino library.
