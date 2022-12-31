@@ -43,15 +43,3 @@ Examples include using PWM and pulses to control DC motors, servo and stepper mo
 ## Week 11 - Communication with other devices
 
 Example include Serial Communication between Arduino and the computer through Serial Monitor
-
-## Week 12 - Serial Communication
-
-Examples include Serial communication between Arduino using USART, SPI and I2C communication.
-
-## Week 13 - Interfacing Circuits
-
-Examples include logic level shifting from 3.3V logic level to 5V logic level.
-
-## Week 14 - Design Choices
-
-Difference between microcontrollers (Arduino etc) and microcomputers (Raspberry Pi)
